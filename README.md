@@ -13,10 +13,10 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-shukla-qa/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://x/rahulshukla0312" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://rahulshukla.info" target="_blank">
@@ -42,28 +42,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shukla0312&show_icons=true&theme=radical" alt="Rahul's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shukla0312&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shukla0312&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shukla0312&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
----
+----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
