@@ -14,16 +14,16 @@
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/rahul-shukla-qa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;"/>
   </a>
-  <a href="https://x/rahulshukla0312" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
+  <a href="https://x.com/rahulshukla0312" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" style="margin-right: 20px;"/>
   </a>
   <a href="https://rahulshukla.info" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Portfolio" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Portfolio" width="40" height="40" style="margin-right: 20px;"/>
   </a>
   <a href="https://github.com/Shukla0312" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" style="margin-right: 20px;"/>
   </a>
 </p>
 
