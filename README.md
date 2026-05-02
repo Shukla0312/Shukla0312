@@ -1,6 +1,6 @@
 # Rahul Shukla — Senior SDET & QA Automation Architect
 
-> **I build test automation systems that reason about correctness — not just check exact values.**  
+> **I build automation frameworks that catch real bugs — not just flag value mismatches.**  
 > 10+ years in QA. Now integrating LLMs into automation frameworks to solve problems that brittle assertions can't.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--shukla--qa-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-shukla-qa)
@@ -51,6 +51,43 @@ The core problem: traditional assertions fail the moment a value changes by one 
 
 ---
 
+## 🗂️ More Projects
+
+### ⚡ Cypress Automation Framework
+
+**[→ View Repository](https://github.com/Shukla0312/cypress-automation-framework)**
+
+Production-ready Cypress framework for UI and API testing — built to address real-world challenges like flaky selectors, brittle flows, and hard-to-maintain suites.
+
+**What's inside:**
+- Page Object Model with centralized locator strategy (`data-testid` first)
+- UI + API automation in a single framework
+- Multi-environment support (dev / staging / prod) via config flags
+- CI/CD wired with GitHub Actions — runs on push and PR
+- Mochawesome HTML reporting + failure screenshots
+
+**Stack:** `Cypress` `JavaScript` `GitHub Actions` `Mochawesome` `POM`
+
+---
+
+### 🎭 Playwright BDD Framework
+
+**[→ View Repository](https://github.com/Shukla0312/playwright-bdd)**
+
+BDD-first Playwright framework combining Gherkin syntax with modern Playwright capabilities — built for teams that need readable, stakeholder-friendly test scenarios alongside robust automation.
+
+**What's inside:**
+- Gherkin `.feature` files for UI and API scenarios
+- Multi-browser coverage: Chromium, Firefox, Safari
+- Multi-environment config (dev / qa / uat)
+- Triple reporting: Allure + Playwright HTML + Cucumber reports
+- OCR integration via Tesseract.js for visual/text validation
+- Parallel execution with video recording on failure
+
+**Stack:** `Playwright` `TypeScript` `Cucumber/Gherkin` `Allure` `BDD`
+
+---
+
 ## 🛠️ Full Tech Stack
 
 **Test Automation**
@@ -76,10 +113,10 @@ The core problem: traditional assertions fail the moment a value changes by one 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shukla0312&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shukla0312&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+[![GitHub followers](https://img.shields.io/github/followers/Shukla0312?style=flat&color=58a6ff&labelColor=0d1117)](https://github.com/Shukla0312)
+[![GitHub stars](https://img.shields.io/github/stars/Shukla0312?style=flat&color=58a6ff&labelColor=0d1117)](https://github.com/Shukla0312)
 
 ---
 
@@ -88,7 +125,6 @@ The core problem: traditional assertions fail the moment a value changes by one 
 | Metric | Value |
 |---|---|
 | Experience | 10+ years |
-| Longest Engagement | 3+ years / 3,800+ hours (SaaS product, sole automation engineer) |
 | Frameworks Built | Multiple from scratch across fintech, telecom, insurance & SaaS |
 | Domains | Fintech · Telecom · Insurance · SaaS |
 
