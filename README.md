@@ -1,7 +1,7 @@
 # Rahul Shukla — Senior SDET & QA Automation Architect
 
 > **I build automation frameworks that catch real bugs — not just flag value mismatches.**  
-> 10+ years in QA. Now integrating LLMs into automation frameworks to solve problems that brittle assertions can't.
+> 11+ years in QA. Now integrating LLMs into automation frameworks to solve problems that brittle assertions can't.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--shukla--qa-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-shukla-qa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rahulshukla.dev-000000?style=flat&logo=safari)](https://rahulshukla.dev)
