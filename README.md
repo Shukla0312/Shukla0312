@@ -4,7 +4,7 @@
 > 10+ years in QA. Now integrating LLMs into automation frameworks to solve problems that brittle assertions can't.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--shukla--qa-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-shukla-qa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rahulshukla.info-000000?style=flat&logo=safari)](https://rahulshukla.info)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rahulshukla.dev-000000?style=flat&logo=safari)](https://rahulshukla.dev)
 [![X](https://img.shields.io/badge/X-@qarahulshukla-000000?style=flat&logo=x)](https://x.com/qarahulshukla)
 
 ---
